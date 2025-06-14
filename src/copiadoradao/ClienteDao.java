@@ -12,6 +12,7 @@ public class ClienteDao {
         this.email = email;
     }
 
+    public String getNome() {
         return nome;
     }
 
